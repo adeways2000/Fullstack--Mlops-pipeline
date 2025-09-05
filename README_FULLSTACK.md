@@ -1,5 +1,9 @@
 # MLOps Pipeline - Complete Full-Stack Platform
 
+<img width="1413" height="953" alt="image" src="https://github.com/user-attachments/assets/7e028150-0e23-464b-ad32-f1377fcfba83" />
+
+
+
 ## 🚀 **Enterprise-Grade MLOps Platform**
 
 A comprehensive Machine Learning Operations platform featuring both a robust backend API and an intuitive React-based management dashboard. This project demonstrates advanced MLOps practices, full-stack development skills, and enterprise-level system architecture.
@@ -126,7 +130,7 @@ A comprehensive Machine Learning Operations platform featuring both a robust bac
 
 1. **Navigate to project directory:**
    ```bash
-   cd project3_mlops_pipeline
+   cd fullstack_mlops_pipeline
    ```
 
 2. **Create and activate virtual environment:**
